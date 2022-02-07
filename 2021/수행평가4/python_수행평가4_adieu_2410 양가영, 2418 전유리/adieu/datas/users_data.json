@@ -1,0 +1,139 @@
+{
+    "jeon": {
+        "name": "18",
+        "pw": "jj1234",
+        "age": "18",
+        "gender": "w",
+        "call_number": "4046546161",
+        "zip_code": "\uc11c\uc6b8",
+        "introduce": "\ub098\ub2e4",
+        "up_list": [
+            "\ub450\ubd80",
+            "\ubca0\ub2c8",
+            "\uc564",
+            "\ub2e4\ub871\uc774"
+        ],
+        "pick_list": [],
+        "pick_check": []
+    },
+    "nndd": {
+        "name": "34",
+        "pw": "n1234",
+        "age": "34",
+        "gender": "w",
+        "call_number": "010456877953",
+        "zip_code": "\ubd80\uc0b0",
+        "introduce": "\uc804\ub370\uc5ec",
+        "up_list": [],
+        "pick_list": [],
+        "pick_check": []
+    },
+    "ga1234": {
+        "name": "18",
+        "pw": "g1234",
+        "age": "18",
+        "gender": "w",
+        "call_number": "01012341234",
+        "zip_code": "\uc11c\uc6b8",
+        "introduce": "\ubc18\uac00\uc6cc",
+        "up_list": [
+            "\ud2f0\ud0a4",
+            "\ub8e8\ube44",
+            "\ud30c\uc778",
+            "\ubbf8\ub2c8",
+            "\uae5c\uc774",
+            "\ube44\ube0c"
+        ],
+        "pick_list": [
+            "\ub098\ub098",
+            "\uc708\ub4dc",
+            "\ubca0\ub2c8",
+            "\uc564",
+            "\ubab0\ub9ac"
+        ],
+        "pick_check": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "love": {
+        "name": "18",
+        "pw": "jyuri",
+        "age": "18",
+        "gender": "w",
+        "call_number": "01012345678",
+        "zip_code": "\uc800\uae30",
+        "introduce": "\ud558\uc774",
+        "up_list": [
+            "\ub098\ubb34",
+            "\uc708\ub4dc",
+            "\uc194\uc774",
+            "\ubab0\ub9ac",
+            "\ub098\ub098"
+        ],
+        "pick_list": [
+            "\ucb49\ube75",
+            "\ub450\ubd80",
+            "\ubca0\ub2c8",
+            "\ub2e4\ub871\uc774"
+        ],
+        "pick_check": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "vip": {
+        "name": "\ud558\uc774",
+        "pw": "vvvip",
+        "age": "18",
+        "gender": "\uc5ec\uc790",
+        "call_number": "01011112222",
+        "zip_code": "\uc131\ub0a8\uce74\ud398",
+        "introduce": "\uace0\uc591\uc774 vip",
+        "up_list": [],
+        "pick_list": [
+            "\ucb49\ube75"
+        ],
+        "pick_check": [
+            0
+        ]
+    },
+    "bio": {
+        "name": "b5",
+        "pw": "bio12",
+        "age": "18",
+        "gender": "\ub0a8\uc790",
+        "call_number": "01012345678",
+        "zip_code": "\ud558\uc774\ub9c8\ud2b8",
+        "introduce": "dfsdfsd",
+        "up_list": [
+            "\ucb49\ube75",
+            "\uc090\uc57d\uc774",
+            "\uc18c\ub2c9",
+            "\ub8e8\uc774"
+        ],
+        "pick_list": [],
+        "pick_check": []
+    },
+    "adieu": {
+        "name": "\ubbf8\ub9bc",
+        "pw": "mirim",
+        "age": "10",
+        "gender": "\uc5ec\uc790",
+        "call_number": "01011112222",
+        "zip_code": "\uc11c\uc6b8",
+        "introduce": "\ub3d9\ubb3c\uc744 \uc88b\uc544\ud574\uc694",
+        "up_list": [
+            "\ubcc4"
+        ],
+        "pick_list": [
+            "\ucb49\ube75"
+        ],
+        "pick_check": []
+    }
+}

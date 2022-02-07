@@ -1,0 +1,6 @@
+abc	30
+player	780
+yuyu	530
+z	240
+player	320
+player	30
