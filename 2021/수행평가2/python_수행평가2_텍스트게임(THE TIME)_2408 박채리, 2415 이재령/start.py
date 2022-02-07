@@ -1,0 +1,41 @@
+import move_limit, rooms3
+
+def start_script():
+      print('The Time')
+      move_limit.lim3()
+      print('텍스트 고어적인 요소가 들어가있습니다. 주의해주세요.')
+      move_limit.lim3()
+      print('H. P. Lovecraft의 크툴루 신화에서 모티브를 따왔습니다.')
+      move_limit.lim4()
+      print('평범한 세상, 평범한 하루, 평범한 시간. 그리고 평범한 사람.')
+      move_limit.lim3()
+      print('어느 때와 다름없이 학교를 끝내고 집으로 가던 도중이었다. ')
+      move_limit.lim3()
+      print('갑작스레 뛰어나온 남자가, 이건 모두 그를 위한 거라며 내게 달려들기 전까진. 그나마 괜찮은 하루였다고 장담할 수 있다.')
+      move_limit.lim3()
+      print('복부에서 느껴지는 강한 통중은 곧이어 화끈거리는 감각으로 바뀌었다. 새빨간 액체가 식도를 역주행해 입 밖으로 흘러내렸다.')
+      move_limit.lim3()
+      print('죽기 직전엔 그간 살아온 삶을 다시 보게 된다는 말을 들어봤는데. 내 경우엔 아닌가 보다. 어떻게든 날 죽인 사람을 확인하려 눈을 굴렸다.')
+      move_limit.lim3()
+      print('그 전에 숨이 막혀 눈을 감았지만...')
+      move_limit.lim4()
+      print('눈을 뜨니 낯선 곳이다. 여긴 어디지?')
+
+def tutorial():
+      print(f'----------------------------------')
+      print(f'[*] 주변을 둘러볼까?')
+      print(f'【1】 본다')
+      print(f'【2】 보지 않는다')
+      num = input('선택>> ')
+      num = int(num)
+      if num == 1:
+            print(f'\n================================')
+            print(f'현위치: 3층-《빈방》')
+            print(f'----------------------------------')
+            print('잔뜩 어질러진 방이다. 먼지 냄새에 묻힌 피냄새도 맡아지는 것 같다.')
+            print('몸을 움직일 수 없다. 지금 낡은 의자에 묶여있다. 무슨 일인지 감도 안 잡힌다.')
+            rooms3.empty()
+      else:
+            print(f'----------------------------------')
+            print('아무것도 하지 않았다. 약간의 무력감이 느껴진다.')
+            tutorial()
